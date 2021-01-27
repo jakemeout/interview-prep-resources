@@ -1,6 +1,6 @@
-# interview-prep-resources
+# Interview Prep Resources
 
-### Videos
+### Algo Videos
 - Dynamic Programming & Competing Subproblems https://youtu.be/ASoaQq66foQ
 - Rabin-Karp String Matching Algorithm https://youtu.be/qQ8vS2btsxI
 - Knuth-Morris-Pratt (KMP) algorithm | String Matching Algorithm | Substring Search https://www.youtube.com/watch?v=4jY57Ehc14Y&ab_channel=LogicFirst
@@ -16,11 +16,7 @@
     - Big O timer https://rithmschool.github.io/function-timer-demo/
 - Bellman Ford Algo https://www.programiz.com/dsa/bellman-ford-algorithm
 - Interview Prep Blog https://medium.com/better-programmingthe-ultimate-strategy-to-preparing-for-the-coding-interview-ee9f7eb439f3
-- JS The Good Parts https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
-    - https://7chan.org/pr/src/OReilly_JavaScript_The_Good_Parts_May_2008.pdf
-    - https://www.oreilly.com/library/view/javascript-the-definitive/9781449393854/
-- JS Tutorial https://javascript.info/
-- JS Blog https://2ality.com/
+
 - Talk https://www.destroyallsoftware.com/talks/wat
 - Cracking the coding interview https://github.com/alxerg/Books-1/blob/master/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf
 - Publishing a portfolio https://medium.com/tunapanda-institute/8-steps-to-publish-your-portfolio-on-github-9d6e6e3d2e84
@@ -29,6 +25,17 @@
 - ReadMe generator https://rahuldkjain.github.io/gh-profile-readme-generator/
 - Node Express Mongo https://medium.com/@dinyangetoh/how-to-build-simple-restful-api-with-nodejs-expressjs-and-mongodb-99348012925d
 - ATS resources  https://www.jobscan.co/blog/greenhouse-ats-what-job-seekers-need-to-know/
+
+### Python Specific Resources
+- https://runestone.academy/runestone/books/published/pythonds3/index.html
+- 
+
+### JS Specific Resources
+- JS The Good Parts https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
+    - https://7chan.org/pr/src/OReilly_JavaScript_The_Good_Parts_May_2008.pdf
+    - https://www.oreilly.com/library/view/javascript-the-definitive/9781449393854/
+- JS Tutorial https://javascript.info/
+- JS Blog https://2ality.com/
 
 ### Repos
 
